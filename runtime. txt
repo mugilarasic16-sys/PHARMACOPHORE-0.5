@@ -1,1 +1,4 @@
-python-3.11
+runtime.txt currently contains:
+streamlit>=1.32
+rdkit-pypi>=2022.9.5
+...
