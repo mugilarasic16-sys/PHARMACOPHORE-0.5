@@ -1,5 +1,5 @@
 streamlit>=1.32
-rdkit>=2023.9.1
+rdkit-pypi>=2022.9.5
 biopython>=1.83
 pandas>=2.0
 numpy>=1.24
